@@ -1,0 +1,39 @@
+[submodule "obsidian-backlink-cache"]
+	path = obsidian-backlink-cache
+	url = https://github.com/mnaoumov/obsidian-backlink-cache
+[submodule "obsidian-better-markdown-links"]
+	path = obsidian-better-markdown-links
+	url = https://github.com/mnaoumov/obsidian-better-markdown-links
+[submodule "obsidian-file-explorer-reload"]
+	path = obsidian-file-explorer-reload
+	url = https://github.com/mnaoumov/obsidian-file-explorer-reload
+[submodule "obsidian-fix-require-modules"]
+	path = obsidian-fix-require-modules
+	url = https://github.com/mnaoumov/obsidian-fix-require-modules/
+[submodule "obsidian-dev-utils"]
+	path = obsidian-dev-utils
+	url = https://github.com/mnaoumov/obsidian-dev-utils
+[submodule "generator-obsidian-plugin"]
+	path = generator-obsidian-plugin
+	url = https://github.com/mnaoumov/generator-obsidian-plugin
+[submodule "obsidian-refresh-preview"]
+	path = obsidian-refresh-preview
+	url = https://github.com/mnaoumov/obsidian-refresh-preview
+[submodule "obsidian-root-folder-context-menu"]
+	path = obsidian-root-folder-context-menu
+	url = https://github.com/mnaoumov/obsidian-root-folder-context-menu
+[submodule "obsidian-smart-rename"]
+	path = obsidian-smart-rename
+	url = https://github.com/mnaoumov/obsidian-smart-rename
+[submodule "obsidian-community-vault"]
+	path = obsidian-community-vault
+	url = https://github.com/mnaoumov/obsidian-community-vault
+[submodule "obsidian-consistent-attachments-and-links"]
+	path = obsidian-consistent-attachments-and-links
+	url = https://github.com/dy-sh/obsidian-consistent-attachments-and-links/
+[submodule "obsidian-custom-attachment-location"]
+	path = obsidian-custom-attachment-location
+	url = https://github.com/RainCat1998/obsidian-custom-attachment-location
+[submodule "obsidian-typings"]
+	path = obsidian-typings
+	url = https://github.com/Fevol/obsidian-typings
