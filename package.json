@@ -1,0 +1,29 @@
+{
+  "name": "obsidian-resources",
+  "version": "1.0.0",
+  "description": "Monorepo for all obsidian projects",
+  "main": "index.js",
+  "scripts": {
+    "spellcheck": "cspell . --no-progress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnaoumov/obsidian-resources.git"
+  },
+  "keywords": [
+    "obsidian",
+    "obsidianmd",
+    "monorepo"
+  ],
+  "author": "mnaoumov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mnaoumov/obsidian-resources/issues"
+  },
+  "homepage": "https://github.com/mnaoumov/obsidian-resources#readme",
+  "devDependencies": {
+    "cspell": "^8.15.4",
+    "cspell-dict-ru_ru": "^1.4.0",
+    "tsx": "^4.19.2"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "version": "0.2",
+  "ignorePaths": [
+    "generator-obsidian-plugin",
+    "node_modules",
+    "obsidian-backlink-cache",
+    "obsidian-better-markdown-links",
+    "obsidian-community-vault",
+    "obsidian-consistent-attachments-and-links",
+    "obsidian-custom-attachment-location",
+    "obsidian-dev-utils",
+    "obsidian-file-explorer-reload",
+    "obsidian-fix-require-modules",
+    "obsidian-refresh-preview",
+    "obsidian-root-folder-context-menu",
+    "obsidian-smart-rename",
+    "obsidian-typings",
+    "obsidian-versions"
+  ],
+  "dictionaryDefinitions": [],
+  "dictionaries": [],
+  "language": "en,ru",
+  "words": [
+    "backlink",
+    "mnaoumov",
+    "Naumov",
+    "obsidianmd"
+  ],
+  "ignoreWords": [],
+  "import": [],
+  "enabled": true
+}
