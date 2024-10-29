@@ -37,3 +37,6 @@
 [submodule "obsidian-typings"]
 	path = obsidian-typings
 	url = https://github.com/Fevol/obsidian-typings
+[submodule "obsidian-versions"]
+	path = obsidian-versions
+	url = https://github.com/mnaoumov/obsidian-versions
