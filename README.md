@@ -8,6 +8,8 @@ List of Obsidian resources I maintain and contribute to.
 - [Better Markdown Links](https://github.com/mnaoumov/obsidian-better-markdown-links)
 - [File Explorer Reload](https://github.com/mnaoumov/obsidian-file-explorer-reload)
 - [Fix Require Modules](https://github.com/mnaoumov/obsidian-fix-require-modules/)
+- [Frontmatter Markdown Links](https://github.com/mnaoumov/obsidian-frontmatter-markdown-links)
+- [Insert Multiple Attachments](https://github.com/mnaoumov/obsidian-insert-multiple-attachments)
 - [Obsidian Dev Utils](https://github.com/mnaoumov/obsidian-dev-utils)
 - [Obsidian Plugin Yeoman Generator](https://github.com/mnaoumov/generator-obsidian-plugin)
 - [Refresh Preview](https://github.com/mnaoumov/obsidian-refresh-preview)
