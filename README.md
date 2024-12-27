@@ -6,6 +6,7 @@ List of Obsidian resources I maintain and contribute to.
 
 - [Backlink Cache](https://github.com/mnaoumov/obsidian-backlink-cache)
 - [Better Markdown Links](https://github.com/mnaoumov/obsidian-better-markdown-links)
+- [External Rename Handler](https://github.com/mnaoumov/obsidian-external-rename-handler)
 - [File Explorer Reload](https://github.com/mnaoumov/obsidian-file-explorer-reload)
 - [Fix Require Modules](https://github.com/mnaoumov/obsidian-fix-require-modules/)
 - [Frontmatter Markdown Links](https://github.com/mnaoumov/obsidian-frontmatter-markdown-links)
