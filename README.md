@@ -11,6 +11,7 @@ List of Obsidian resources I maintain and contribute to.
 - [File Explorer Reload](https://github.com/mnaoumov/obsidian-file-explorer-reload) - is not available in [the official Community Plugins repository](https://github.com/https://obsidian.md/plugins) yet
 - [Frontmatter Markdown Links](https://github.com/mnaoumov/obsidian-frontmatter-markdown-links) - is not available in [the official Community Plugins repository](https://github.com/https://obsidian.md/plugins) yet
 - [Insert Multiple Attachments](https://github.com/mnaoumov/obsidian-insert-multiple-attachments)
+- [New Note Fixer](https://github.com/mnaoumov/obsidian-new-note-fixer) - is not available in [the official Community Plugins repository](https://github.com/https://obsidian.md/plugins) yet
 - [Obsidian Dev Utils](https://github.com/mnaoumov/obsidian-dev-utils)
 - [Obsidian Plugin Yeoman Generator](https://github.com/mnaoumov/generator-obsidian-plugin)
 - [Refresh Preview](https://github.com/mnaoumov/obsidian-refresh-preview)
