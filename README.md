@@ -17,7 +17,7 @@ List of Obsidian resources I maintain and contribute to.
 - [Refresh Preview](https://github.com/mnaoumov/obsidian-refresh-preview)
 - [Root Folder Context Menu](https://github.com/mnaoumov/obsidian-root-folder-context-menu)
 - [Smart Rename](https://github.com/mnaoumov/obsidian-smart-rename)
-- [База знаний сообщества "Obsidian Чат"](https://publish.obsidian.md/obsidian-russian-community/)
+- [База знаний сообщества "Obsidian Чат"](https://github.com/mnaoumov/obsidian-community-vault)
 
 ## Maintainer
 
