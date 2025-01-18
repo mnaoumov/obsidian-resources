@@ -7,7 +7,7 @@ List of Obsidian resources I maintain and contribute to.
 - [Backlink Cache](https://github.com/mnaoumov/obsidian-backlink-cache)
 - [Better Markdown Links](https://github.com/mnaoumov/obsidian-better-markdown-links)
 - [CodeScript Toolkit](https://github.com/mnaoumov/obsidian-codescript-toolkit) (formerly known as `Fix Require Modules`)
-- [External Rename Handler](https://github.com/mnaoumov/obsidian-external-rename-handler) - is not available in [the official Community Plugins repository](https://github.com/https://obsidian.md/plugins) yet
+- [External Rename Handler](https://github.com/mnaoumov/obsidian-external-rename-handler)
 - [File Explorer Reload](https://github.com/mnaoumov/obsidian-file-explorer-reload) - is not available in [the official Community Plugins repository](https://github.com/https://obsidian.md/plugins) yet
 - [Frontmatter Markdown Links](https://github.com/mnaoumov/obsidian-frontmatter-markdown-links) - is not available in [the official Community Plugins repository](https://github.com/https://obsidian.md/plugins) yet
 - [Insert Multiple Attachments](https://github.com/mnaoumov/obsidian-insert-multiple-attachments)
