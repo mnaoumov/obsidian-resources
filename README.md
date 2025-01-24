@@ -9,7 +9,7 @@ List of Obsidian resources I maintain and contribute to.
 - [CodeScript Toolkit](https://github.com/mnaoumov/obsidian-codescript-toolkit) (formerly known as `Fix Require Modules`)
 - [External Rename Handler](https://github.com/mnaoumov/obsidian-external-rename-handler)
 - [File Explorer Reload](https://github.com/mnaoumov/obsidian-file-explorer-reload) - is not available in [the official Community Plugins repository](https://github.com/https://obsidian.md/plugins) yet
-- [Frontmatter Markdown Links](https://github.com/mnaoumov/obsidian-frontmatter-markdown-links) - is not available in [the official Community Plugins repository](https://github.com/https://obsidian.md/plugins) yet
+- [Frontmatter Markdown Links](https://github.com/mnaoumov/obsidian-frontmatter-markdown-links)
 - [Insert Multiple Attachments](https://github.com/mnaoumov/obsidian-insert-multiple-attachments)
 - [New Note Fixer](https://github.com/mnaoumov/obsidian-new-note-fixer) - is not available in [the official Community Plugins repository](https://github.com/https://obsidian.md/plugins) yet
 - [Obsidian Dev Utils](https://github.com/mnaoumov/obsidian-dev-utils)
