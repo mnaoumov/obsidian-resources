@@ -17,6 +17,7 @@ List of Obsidian resources I maintain and contribute to.
 - [Obsidian Plugin Yeoman Generator](https://github.com/mnaoumov/generator-obsidian-plugin)
 - [Refresh Preview](https://github.com/mnaoumov/obsidian-refresh-preview)
 - [Root Folder Context Menu](https://github.com/mnaoumov/obsidian-root-folder-context-menu)
+- [Sample Plugin Extended](https://github.com/mnaoumov/obsidian-sample-plugin-extended)
 - [Smart Rename](https://github.com/mnaoumov/obsidian-smart-rename)
 - [База знаний сообщества "Obsidian Чат"](https://github.com/mnaoumov/obsidian-community-vault)
 
