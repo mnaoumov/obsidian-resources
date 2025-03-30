@@ -4,14 +4,15 @@ List of Obsidian resources I maintain and contribute to.
 
 ## Author
 
-- [Advanced Debug Mode](https://github.com/mnaoumov/obsidian-advanced-debug-mode) - is not available in [the official Community Plugins repository](https://github.com/https://obsidian.md/plugins) yet
-- [Advanced Note Composer](https://github.com/mnaoumov/obsidian-advanced-note-composer) - is not available in [the official Community Plugins repository](https://github.com/https://obsidian.md/plugins) yet
+- [Advanced Debug Mode](https://github.com/mnaoumov/obsidian-advanced-debug-mode) - is not available in [the official Community Plugins repository](https://github.com/https://obsidian.md/plugins) yet.
+- [Advanced Exclude](https://github.com/mnaoumov/obsidian-advanced-exclude) - is not available in [the official Community Plugins repository](https://github.com/https://obsidian.md/plugins) yet.
+- [Advanced Note Composer](https://github.com/mnaoumov/obsidian-advanced-note-composer) - is not available in [the official Community Plugins repository](https://github.com/https://obsidian.md/plugins) yet.
 - [Backlink Cache](https://github.com/mnaoumov/obsidian-backlink-cache)
 - [Backlink Full Path](https://github.com/mnaoumov/obsidian-backlink-full-path)
 - [Better Markdown Links](https://github.com/mnaoumov/obsidian-better-markdown-links)
 - [CodeScript Toolkit](https://github.com/mnaoumov/obsidian-codescript-toolkit) (formerly known as `Fix Require Modules`)
 - [External Rename Handler](https://github.com/mnaoumov/obsidian-external-rename-handler)
-- [File Explorer Reload](https://github.com/mnaoumov/obsidian-file-explorer-reload) - is not available in [the official Community Plugins repository](https://github.com/https://obsidian.md/plugins) yet
+- [File Explorer Reload](https://github.com/mnaoumov/obsidian-file-explorer-reload) - is not available in [the official Community Plugins repository](https://github.com/https://obsidian.md/plugins) yet.
 - [Frontmatter Markdown Links](https://github.com/mnaoumov/obsidian-frontmatter-markdown-links)
 - [Insert Multiple Attachments](https://github.com/mnaoumov/obsidian-insert-multiple-attachments)
 - [New Note Fixer](https://github.com/mnaoumov/obsidian-new-note-fixer)
