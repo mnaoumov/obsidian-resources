@@ -4,7 +4,7 @@ List of Obsidian resources I maintain and contribute to.
 
 ## Author
 
-- [Advanced Debug Mode](https://github.com/mnaoumov/obsidian-advanced-debug-mode) - is not available in [the official Community Plugins repository](https://github.com/https://obsidian.md/plugins) yet.
+- [Advanced Debug Mode](https://github.com/mnaoumov/obsidian-advanced-debug-mode)
 - [Advanced Exclude](https://github.com/mnaoumov/obsidian-advanced-exclude) - is not available in [the official Community Plugins repository](https://github.com/https://obsidian.md/plugins) yet.
 - [Advanced Note Composer](https://github.com/mnaoumov/obsidian-advanced-note-composer) - is not available in [the official Community Plugins repository](https://github.com/https://obsidian.md/plugins) yet.
 - [Backlink Cache](https://github.com/mnaoumov/obsidian-backlink-cache)
