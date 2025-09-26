@@ -19,7 +19,7 @@ List of Obsidian resources I maintain and contribute to.
 - [New Note Fixer](https://github.com/mnaoumov/obsidian-new-note-fixer)
 - [Obsidian Dev Utils](https://github.com/mnaoumov/obsidian-dev-utils)
 - [Obsidian Plugin Yeoman Generator](https://github.com/mnaoumov/generator-obsidian-plugin)
-- [Refresh Any View](https://github.com/mnaoumov/obsidian-any-view) (formerly known as `Refresh Preview`)
+- [Refresh Any View](https://github.com/mnaoumov/obsidian-refresh-any-view) (formerly known as `Refresh Preview`)
 - [Root Folder Context Menu](https://github.com/mnaoumov/obsidian-root-folder-context-menu)
 - [Sample Plugin Extended](https://github.com/mnaoumov/obsidian-sample-plugin-extended)
 - [Smart Rename](https://github.com/mnaoumov/obsidian-smart-rename)
