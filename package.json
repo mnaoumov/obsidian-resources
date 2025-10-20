@@ -23,7 +23,6 @@
   "homepage": "https://github.com/mnaoumov/obsidian-resources#readme",
   "devDependencies": {
     "cspell": "^8.15.4",
-    "cspell-dict-ru_ru": "^1.4.0",
-    "tsx": "^4.19.2"
+    "cspell-dict-ru_ru": "^1.4.0"
   }
 }
