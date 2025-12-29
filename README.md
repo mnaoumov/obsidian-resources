@@ -30,7 +30,7 @@ List of Obsidian resources I maintain and contribute to.
 ## Maintainer
 
 - [Consistent Attachments and Links](https://github.com/dy-sh/obsidian-consistent-attachments-and-links/)
-- [Obsidian Custom Attachment location](https://github.com/RainCat1998/obsidian-custom-attachment-location)
+- [Obsidian Custom Attachment location](https://github.com/mnaoumov/obsidian-custom-attachment-location)
 - [Obsidian Extended Typings](https://github.com/Fevol/obsidian-typings)
 - [Telegram Community Obsidian Чат](https://t.me/obsidian_z)
 
