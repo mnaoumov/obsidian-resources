@@ -11,7 +11,7 @@ List of Obsidian resources I maintain and contribute to.
 - [Backlink Full Path](https://github.com/mnaoumov/obsidian-backlink-full-path)
 - [Better Markdown Links](https://github.com/mnaoumov/obsidian-better-markdown-links)
 - [CodeScript Toolkit](https://github.com/mnaoumov/obsidian-codescript-toolkit) (formerly known as `Fix Require Modules`)
-- [Edit Link Alias](https://github.com/mnaoumov/obsidian-edit-link-alias) - is not available in [the official Community Plugins repository](https://github.com/https://obsidian.md/plugins) yet.
+- [Edit Link Alias](https://github.com/mnaoumov/obsidian-edit-link-alias)
 - [Embed HTML](https://github.com/mnaoumov/obsidian-embed-html) - is not available in [the official Community Plugins repository](https://github.com/https://obsidian.md/plugins) yet.
 - [External Rename Handler](https://github.com/mnaoumov/obsidian-external-rename-handler)
 - [File Explorer Reload](https://github.com/mnaoumov/obsidian-file-explorer-reload) - is not available in [the official Community Plugins repository](https://github.com/https://obsidian.md/plugins) yet.
