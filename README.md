@@ -18,6 +18,7 @@ List of Obsidian resources I maintain and contribute to.
 - [Fix Tab Size](https://github.com/mnaoumov/obsidian-fix-tab-size) - is not available in [the official Community Plugins repository](https://github.com/https://obsidian.md/plugins) yet.
 - [Frontmatter Markdown Links](https://github.com/mnaoumov/obsidian-frontmatter-markdown-links)
 - [Insert Multiple Attachments](https://github.com/mnaoumov/obsidian-insert-multiple-attachments)
+- [Nested Properties](https://github.com/mnaoumov/obsidian-nested-properties) - is not available in [the official Community Plugins repository](https://github.com/https://obsidian.md/plugins) yet.
 - [New Note Fixer](https://github.com/mnaoumov/obsidian-new-note-fixer)
 - [Obsidian Dev Utils](https://github.com/mnaoumov/obsidian-dev-utils)
 - [Obsidian Plugin Yeoman Generator](https://github.com/mnaoumov/generator-obsidian-plugin)
