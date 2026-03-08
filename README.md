@@ -38,6 +38,7 @@ List of Obsidian resources I maintain and contribute to.
 
 ## Tools
 
+- ✍️ [Create Obsidian Plugin](https://github.com/mnaoumov/create-obsidian-plugin)
 - ✍️ [Obsidian Dev Utils](https://github.com/mnaoumov/obsidian-dev-utils)
 - 🔧 [Obsidian Extended Typings](https://github.com/Fevol/obsidian-typings)
 - ✍️ [Obsidian Plugin Yeoman Generator](https://github.com/mnaoumov/generator-obsidian-plugin)
