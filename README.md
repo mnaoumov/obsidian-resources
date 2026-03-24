@@ -41,6 +41,7 @@ List of Obsidian resources I maintain and contribute to.
 - ✍️ [Create Obsidian Plugin](https://github.com/mnaoumov/create-obsidian-plugin)
 - ✍️ [Obsidian Dev Utils](https://github.com/mnaoumov/obsidian-dev-utils)
 - 🔧 [Obsidian Extended Typings](https://github.com/Fevol/obsidian-typings)
+- ✍️ [Obsidian Integration Testing](https://github.com/mnaoumov/obsidian-integration-testing)
 - ✍️ [Obsidian Plugin Yeoman Generator](https://github.com/mnaoumov/generator-obsidian-plugin)
 - ✍️ [Obsidian Test Mocks](https://github.com/mnaoumov/obsidian-test-mocks)
 - ✍️ [Sample Plugin Extended](https://github.com/mnaoumov/obsidian-sample-plugin-extended)
