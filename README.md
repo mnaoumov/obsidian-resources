@@ -23,6 +23,7 @@ List of Obsidian resources I maintain and contribute to.
 - ✍️🔀 [CodeScript Toolkit](https://github.com/mnaoumov/obsidian-codescript-toolkit) (`Fix Require Modules`)
 - 🔧 [Consistent Attachments and Links](https://github.com/dy-sh/obsidian-consistent-attachments-and-links/)
 - ✍️ [Edit Link Alias](https://github.com/mnaoumov/obsidian-edit-link-alias)
+- ✍️🚧 [Email to Vault](https://github.com/mnaoumov/obsidian-email-to-vault)
 - ✍️🚧 [Embed HTML](https://github.com/mnaoumov/obsidian-embed-html)
 - ✍️ [External Rename Handler](https://github.com/mnaoumov/obsidian-external-rename-handler)
 - ✍️🚧 [File Explorer Reload](https://github.com/mnaoumov/obsidian-file-explorer-reload)
