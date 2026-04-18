@@ -38,8 +38,8 @@ List of Obsidian resources I maintain and contribute to.
 - ✍️ [Smart Rename](https://github.com/mnaoumov/obsidian-smart-rename)
 
 ## Tools
-
 - ✍️ [Create Obsidian Plugin](https://github.com/mnaoumov/create-obsidian-plugin)
+- 🤝 [eslint-plugin-obsidianmd](https://github.com/obsidianmd/eslint-plugin)
 - ✍️ [Obsidian Dev Utils](https://github.com/mnaoumov/obsidian-dev-utils)
 - 🔧 [Obsidian Extended Typings](https://github.com/Fevol/obsidian-typings)
 - ✍️ [Obsidian Integration Testing](https://github.com/mnaoumov/obsidian-integration-testing)
