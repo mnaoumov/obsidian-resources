@@ -6,8 +6,6 @@ List of Obsidian resources I maintain and contribute to.
 
 > [!NOTE]
 >
-> 🚧 marks plugins not yet available in [the official Community Plugins repository](https://github.com/https://obsidian.md/plugins).
->
 > 🔀 marks plugins that were renamed.
 >
 > ✍️ author, 🔧 maintainer, 🤝 contributor.
@@ -15,7 +13,7 @@ List of Obsidian resources I maintain and contribute to.
 ## Plugins
 
 - ✍️ [Advanced Debug Mode](https://github.com/mnaoumov/obsidian-advanced-debug-mode)
-- ✍️🚧 [Advanced Exclude](https://github.com/mnaoumov/obsidian-advanced-exclude)
+- ✍️ [Advanced Exclude](https://github.com/mnaoumov/obsidian-advanced-exclude)
 - ✍️ [Advanced Note Composer](https://github.com/mnaoumov/obsidian-advanced-note-composer)
 - ✍️ [Backlink Cache](https://github.com/mnaoumov/obsidian-backlink-cache)
 - ✍️ [Backlink Full Path](https://github.com/mnaoumov/obsidian-backlink-full-path)
@@ -24,14 +22,14 @@ List of Obsidian resources I maintain and contribute to.
 - 🔧 [Consistent Attachments and Links](https://github.com/dy-sh/obsidian-consistent-attachments-and-links/)
 - 🔧 [Custom Attachment location](https://github.com/mnaoumov/obsidian-custom-attachment-location)
 - ✍️ [Edit Link Alias](https://github.com/mnaoumov/obsidian-edit-link-alias)
-- ✍️🚧 [Email to Vault](https://github.com/mnaoumov/obsidian-email-to-vault)
-- ✍️🚧 [Embed HTML](https://github.com/mnaoumov/obsidian-embed-html)
+- ✍️ [Email to Vault](https://github.com/mnaoumov/obsidian-email-to-vault)
+- ✍️ [Embed HTML](https://github.com/mnaoumov/obsidian-embed-html)
 - ✍️ [External Rename Handler](https://github.com/mnaoumov/obsidian-external-rename-handler)
-- ✍️🚧 [File Explorer Reload](https://github.com/mnaoumov/obsidian-file-explorer-reload)
-- ✍️🚧 [Fix Tab Size](https://github.com/mnaoumov/obsidian-fix-tab-size)
+- ✍️ [File Explorer Reload](https://github.com/mnaoumov/obsidian-file-explorer-reload)
+- ✍️ [Fix Tab Size](https://github.com/mnaoumov/obsidian-fix-tab-size)
 - ✍️ [Frontmatter Markdown Links](https://github.com/mnaoumov/obsidian-frontmatter-markdown-links)
 - ✍️ [Insert Multiple Attachments](https://github.com/mnaoumov/obsidian-insert-multiple-attachments)
-- ✍️🚧 [Nested Properties](https://github.com/mnaoumov/obsidian-nested-properties)
+- ✍️ [Nested Properties](https://github.com/mnaoumov/obsidian-nested-properties)
 - ✍️ [New Note Fixer](https://github.com/mnaoumov/obsidian-new-note-fixer)
 - ✍️🔀 [Refresh Any View](https://github.com/mnaoumov/obsidian-refresh-any-view) (`Refresh Preview`)
 - ✍️ [Root Folder Context Menu](https://github.com/mnaoumov/obsidian-root-folder-context-menu)
