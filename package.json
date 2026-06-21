@@ -22,10 +22,10 @@
     "spellcheck": "cspell . --no-progress"
   },
   "devDependencies": {
-    "@vitest/coverage-v8": "^4.1.6",
+    "@vitest/coverage-v8": "^4.1.7",
     "cspell": "^10.0.0",
     "cspell-dict-ru_ru": "^1.4.0",
     "jsdom": "^29.1.1",
-    "vitest": "^4.1.6"
+    "vitest": "^4.1.7"
   }
 }
