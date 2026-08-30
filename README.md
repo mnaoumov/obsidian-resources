@@ -17,6 +17,7 @@ List of Obsidian resources I maintain and contribute to.
 - ✍️ [Advanced Markdown Export](https://github.com/mnaoumov/obsidian-advanced-markdown-export)
 - ✍️ [Advanced Note Composer](https://github.com/mnaoumov/obsidian-advanced-note-composer)
 - ✍️ [Advanced Rename and Delete Handler](https://github.com/mnaoumov/obsidian-advanced-rename-and-delete-handler)
+- ✍️ [Alias Quick Switcher](https://github.com/mnaoumov/obsidian-alias-quick-switcher)
 - ✍️ [App Update Notifier](https://github.com/mnaoumov/obsidian-app-update-notifier)
 - ✍️ [Backlink Cache](https://github.com/mnaoumov/obsidian-backlink-cache)
 - ✍️ [Backlink Full Path](https://github.com/mnaoumov/obsidian-backlink-full-path)
