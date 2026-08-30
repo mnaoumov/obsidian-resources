@@ -26,6 +26,7 @@ List of Obsidian resources I maintain and contribute to.
 - ✍️ [Edit Link Alias](https://github.com/mnaoumov/obsidian-edit-link-alias)
 - ✍️ [Email to Vault](https://github.com/mnaoumov/obsidian-email-to-vault)
 - ✍️ [Embed HTML](https://github.com/mnaoumov/obsidian-embed-html)
+- ✍️ [Export with Dependencies](https://github.com/mnaoumov/obsidian-export-with-dependencies)
 - ✍️ [External Rename Handler](https://github.com/mnaoumov/obsidian-external-rename-handler)
 - ✍️ [File Explorer Reload](https://github.com/mnaoumov/obsidian-file-explorer-reload)
 - ✍️ [Fix Tab Size](https://github.com/mnaoumov/obsidian-fix-tab-size)
