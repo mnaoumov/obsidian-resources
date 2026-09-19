@@ -35,6 +35,7 @@ List of Obsidian resources I maintain and contribute to.
 - ✍️ [Frontmatter Markdown Links](https://github.com/mnaoumov/obsidian-frontmatter-markdown-links)
 - ✍️ [Insert Multiple Attachments](https://github.com/mnaoumov/obsidian-insert-multiple-attachments)
 - ✍️ [Link Picker](https://github.com/mnaoumov/obsidian-link-picker)
+- ✍️ [More Events](https://github.com/mnaoumov/obsidian-more-events)
 - ✍️ [Nested Properties](https://github.com/mnaoumov/obsidian-nested-properties)
 - ✍️ [New Note Fixer](https://github.com/mnaoumov/obsidian-new-note-fixer)
 - ✍️🔀 [Refresh Any View](https://github.com/mnaoumov/obsidian-refresh-any-view) (`Refresh Preview`)
