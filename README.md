@@ -15,6 +15,7 @@ List of Obsidian resources I maintain and contribute to.
 - ✍️ [Advanced Debug Mode](https://github.com/mnaoumov/obsidian-advanced-debug-mode)
 - ✍️ [Advanced Exclude](https://github.com/mnaoumov/obsidian-advanced-exclude)
 - ✍️ [Advanced Markdown Export](https://github.com/mnaoumov/obsidian-advanced-markdown-export)
+- ✍️ [Advanced Metadata Cache](https://github.com/mnaoumov/obsidian-advanced-metadata-cache)
 - ✍️ [Advanced Note Composer](https://github.com/mnaoumov/obsidian-advanced-note-composer)
 - ✍️ [Advanced Rename and Delete Handler](https://github.com/mnaoumov/obsidian-advanced-rename-and-delete-handler)
 - ✍️ [Alias Quick Switcher](https://github.com/mnaoumov/obsidian-alias-quick-switcher)
