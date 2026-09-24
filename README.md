@@ -39,6 +39,7 @@ List of Obsidian resources I maintain and contribute to.
 - ✍️ [More Events](https://github.com/mnaoumov/obsidian-more-events)
 - ✍️ [Nested Properties](https://github.com/mnaoumov/obsidian-nested-properties)
 - ✍️ [New Note Fixer](https://github.com/mnaoumov/obsidian-new-note-fixer)
+- ✍️ [Preserve Frontmatter Formatting](https://github.com/mnaoumov/obsidian-preserve-frontmatter-formatting)
 - ✍️🔀 [Refresh Any View](https://github.com/mnaoumov/obsidian-refresh-any-view) (`Refresh Preview`)
 - ✍️ [Root Folder Context Menu](https://github.com/mnaoumov/obsidian-root-folder-context-menu)
 - ✍️ [Smart Rename](https://github.com/mnaoumov/obsidian-smart-rename)
