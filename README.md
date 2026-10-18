@@ -53,7 +53,7 @@ List of Obsidian resources I maintain and contribute to.
 - 🤝 [eslint-plugin-obsidianmd](https://github.com/obsidianmd/eslint-plugin)
 - ✍️ [Obsidian Dataview Types](https://github.com/mnaoumov/obsidian-dataview-types)
 - ✍️ [Obsidian Dev Toolkit](https://github.com/mnaoumov/obsidian-dev-toolkit)
-- ✍️ [Obsidian Dev Utils](https://github.com/mnaoumov/obsidian-dev-utils)
+- ✍️ [Obsidian Dev Utils](https://github.com/mnaoumov/obsidian-dev-utils) - retired, replaced by [Obsidian Lib](https://github.com/mnaoumov/obsidian-lib) and [Obsidian Dev Toolkit](https://github.com/mnaoumov/obsidian-dev-toolkit)
 - 🔧 [Obsidian Extended Typings](https://github.com/obsidian-typings/obsidian-typings)
 - ✍️ [Obsidian Integration Testing](https://github.com/mnaoumov/obsidian-integration-testing)
 - ✍️ [Obsidian Lib](https://github.com/mnaoumov/obsidian-lib)
