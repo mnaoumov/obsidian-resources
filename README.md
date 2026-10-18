@@ -8,6 +8,8 @@ List of Obsidian resources I maintain and contribute to.
 >
 > 🔀 marks plugins that were renamed.
 >
+> ⛔ marks retired resources, followed by what replaced them.
+>
 > ✍️ author, 🔧 maintainer, 🤝 contributor.
 
 ## Plugins
@@ -20,7 +22,7 @@ List of Obsidian resources I maintain and contribute to.
 - ✍️ [Advanced Rename and Delete Handler](https://github.com/mnaoumov/obsidian-advanced-rename-and-delete-handler)
 - ✍️ [Alias Quick Switcher](https://github.com/mnaoumov/obsidian-alias-quick-switcher)
 - ✍️ [App Update Notifier](https://github.com/mnaoumov/obsidian-app-update-notifier)
-- ✍️ [Backlink Cache](https://github.com/mnaoumov/obsidian-backlink-cache)
+- ✍️⛔ [Backlink Cache](https://github.com/mnaoumov/obsidian-backlink-cache) - retired, replaced by [Advanced Metadata Cache](https://github.com/mnaoumov/obsidian-advanced-metadata-cache)
 - ✍️ [Backlink Full Path](https://github.com/mnaoumov/obsidian-backlink-full-path)
 - ✍️ [Better Markdown Links](https://github.com/mnaoumov/obsidian-better-markdown-links)
 - ✍️🔀 [CodeScript Toolkit](https://github.com/mnaoumov/obsidian-codescript-toolkit) (`Fix Require Modules`)
@@ -53,11 +55,11 @@ List of Obsidian resources I maintain and contribute to.
 - 🤝 [eslint-plugin-obsidianmd](https://github.com/obsidianmd/eslint-plugin)
 - ✍️ [Obsidian Dataview Types](https://github.com/mnaoumov/obsidian-dataview-types)
 - ✍️ [Obsidian Dev Toolkit](https://github.com/mnaoumov/obsidian-dev-toolkit)
-- ✍️ [Obsidian Dev Utils](https://github.com/mnaoumov/obsidian-dev-utils) - retired, replaced by [Obsidian Lib](https://github.com/mnaoumov/obsidian-lib) and [Obsidian Dev Toolkit](https://github.com/mnaoumov/obsidian-dev-toolkit)
+- ✍️⛔ [Obsidian Dev Utils](https://github.com/mnaoumov/obsidian-dev-utils) - retired, replaced by [Obsidian Lib](https://github.com/mnaoumov/obsidian-lib) and [Obsidian Dev Toolkit](https://github.com/mnaoumov/obsidian-dev-toolkit)
 - 🔧 [Obsidian Extended Typings](https://github.com/obsidian-typings/obsidian-typings)
 - ✍️ [Obsidian Integration Testing](https://github.com/mnaoumov/obsidian-integration-testing)
 - ✍️ [Obsidian Lib](https://github.com/mnaoumov/obsidian-lib)
-- ✍️ [Obsidian Plugin Yeoman Generator](https://github.com/mnaoumov/generator-obsidian-plugin)
+- ✍️⛔ [Obsidian Plugin Yeoman Generator](https://github.com/mnaoumov/generator-obsidian-plugin) - retired, replaced by [Create Obsidian Plugin](https://github.com/mnaoumov/create-obsidian-plugin)
 - ✍️ [Obsidian Test Mocks](https://github.com/mnaoumov/obsidian-test-mocks)
 - ✍️ [Sample Plugin Extended](https://github.com/mnaoumov/obsidian-sample-plugin-extended)
 
