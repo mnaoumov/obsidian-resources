@@ -49,6 +49,7 @@ List of Obsidian resources I maintain and contribute to.
 - ✍️ [Root Folder Context Menu](https://github.com/mnaoumov/obsidian-root-folder-context-menu)
 - ✍️ [Sibling Notes](https://github.com/mnaoumov/obsidian-sibling-notes)
 - ✍️ [Smart Rename](https://github.com/mnaoumov/obsidian-smart-rename)
+- ✍️ [Tag Notes](https://github.com/mnaoumov/obsidian-tag-notes)
 
 ## Tools
 
