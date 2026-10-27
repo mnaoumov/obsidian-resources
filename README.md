@@ -37,6 +37,7 @@ List of Obsidian resources I maintain and contribute to.
 - ✍️ [File Explorer Reload](https://github.com/mnaoumov/obsidian-file-explorer-reload)
 - ✍️ [Fix Tab Size](https://github.com/mnaoumov/obsidian-fix-tab-size)
 - ✍️ [Frontmatter Markdown Links](https://github.com/mnaoumov/obsidian-frontmatter-markdown-links)
+- ✍️ [Indexed Search](https://github.com/mnaoumov/obsidian-indexed-search)
 - ✍️ [Insert Multiple Attachments](https://github.com/mnaoumov/obsidian-insert-multiple-attachments)
 - ✍️ [Labelled Links](https://github.com/mnaoumov/obsidian-labelled-links)
 - ✍️ [Link Picker](https://github.com/mnaoumov/obsidian-link-picker)
