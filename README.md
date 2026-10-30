@@ -14,6 +14,7 @@ List of Obsidian resources I maintain and contribute to.
 
 ## Plugins
 
+- ✍️ [Address Map Links](https://github.com/mnaoumov/obsidian-address-map-links)
 - ✍️ [Advanced Debug Mode](https://github.com/mnaoumov/obsidian-advanced-debug-mode)
 - ✍️ [Advanced Exclude](https://github.com/mnaoumov/obsidian-advanced-exclude)
 - ✍️ [Advanced Markdown Export](https://github.com/mnaoumov/obsidian-advanced-markdown-export)
