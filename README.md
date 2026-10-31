@@ -4,6 +4,8 @@
 
 List of Obsidian resources I maintain and contribute to.
 
+📰 What I ship for Obsidian each month, new plugins and the features worth knowing about: [Obsidian digest](https://mnaoumov.dev/digest/) ([RSS](https://mnaoumov.dev/digest/rss.xml)).
+
 > [!NOTE]
 >
 > 🔀 marks plugins that were renamed.
