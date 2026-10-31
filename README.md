@@ -29,6 +29,7 @@ List of Obsidian resources I maintain and contribute to.
 - ✍️ [App Update Notifier](https://github.com/mnaoumov/obsidian-app-update-notifier)
 - ✍️⛔ [Backlink Cache](https://github.com/mnaoumov/obsidian-backlink-cache) - retired, replaced by [Advanced Metadata Cache](https://github.com/mnaoumov/obsidian-advanced-metadata-cache)
 - ✍️ [Backlink Full Path](https://github.com/mnaoumov/obsidian-backlink-full-path)
+- ✍️ [Bases Auto Row Height](https://github.com/mnaoumov/obsidian-bases-auto-row-height)
 - ✍️ [Better Markdown Links](https://github.com/mnaoumov/obsidian-better-markdown-links)
 - ✍️🔀 [CodeScript Toolkit](https://github.com/mnaoumov/obsidian-codescript-toolkit) (`Fix Require Modules`)
 - 🔧 [Consistent Attachments and Links](https://github.com/dy-sh/obsidian-consistent-attachments-and-links/)
