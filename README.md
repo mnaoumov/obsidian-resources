@@ -4,8 +4,6 @@
 
 List of Obsidian resources I maintain and contribute to.
 
-📰 My Obsidian-related work each month, new plugins and the features worth knowing about: [Obsidian digest](https://mnaoumov.dev/digest/) ([RSS](https://mnaoumov.dev/digest/rss.xml)).
-
 > [!NOTE]
 >
 > 🔀 marks plugins that were renamed.
@@ -73,6 +71,7 @@ List of Obsidian resources I maintain and contribute to.
 
 ## Community
 
+- ✍️ [Obsidian Digest](https://mnaoumov.dev/digest/) - my Obsidian-related work each month: new plugins and the features worth knowing about
 - 🤝 [Obsidian Developer Docs](https://github.com/obsidianmd/obsidian-developer-docs)
 - 🤝 [Obsidian Forum - Developers: Plugin & API](https://forum.obsidian.md/c/developers-api/14)
 - 🤝 [Obsidian Help](https://github.com/obsidianmd/obsidian-help)
