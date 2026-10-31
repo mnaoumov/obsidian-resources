@@ -12,6 +12,10 @@ List of Obsidian resources I maintain and contribute to.
 >
 > ✍️ author, 🔧 maintainer, 🤝 contributor.
 
+## Digest
+
+- ✍️ [Obsidian Digest](https://mnaoumov.dev/digest/) - my Obsidian-related work each month: new plugins and the features worth knowing about
+
 ## Plugins
 
 - ✍️ [Address Map Links](https://github.com/mnaoumov/obsidian-address-map-links)
@@ -71,7 +75,6 @@ List of Obsidian resources I maintain and contribute to.
 
 ## Community
 
-- ✍️ [Obsidian Digest](https://mnaoumov.dev/digest/) - my Obsidian-related work each month: new plugins and the features worth knowing about
 - 🤝 [Obsidian Developer Docs](https://github.com/obsidianmd/obsidian-developer-docs)
 - 🤝 [Obsidian Forum - Developers: Plugin & API](https://forum.obsidian.md/c/developers-api/14)
 - 🤝 [Obsidian Help](https://github.com/obsidianmd/obsidian-help)
