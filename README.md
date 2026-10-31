@@ -4,7 +4,7 @@
 
 List of Obsidian resources I maintain and contribute to.
 
-📰 What I ship for Obsidian each month, new plugins and the features worth knowing about: [Obsidian digest](https://mnaoumov.dev/digest/) ([RSS](https://mnaoumov.dev/digest/rss.xml)).
+📰 My Obsidian-related work each month, new plugins and the features worth knowing about: [Obsidian digest](https://mnaoumov.dev/digest/) ([RSS](https://mnaoumov.dev/digest/rss.xml)).
 
 > [!NOTE]
 >
@@ -40,6 +40,7 @@ List of Obsidian resources I maintain and contribute to.
 - ✍️ [File Explorer Reload](https://github.com/mnaoumov/obsidian-file-explorer-reload)
 - ✍️ [Fix Tab Size](https://github.com/mnaoumov/obsidian-fix-tab-size)
 - ✍️ [Frontmatter Markdown Links](https://github.com/mnaoumov/obsidian-frontmatter-markdown-links)
+- 🤝 [Importer](https://github.com/obsidianmd/obsidian-importer)
 - ✍️ [Indexed Search](https://github.com/mnaoumov/obsidian-indexed-search)
 - ✍️ [Insert Multiple Attachments](https://github.com/mnaoumov/obsidian-insert-multiple-attachments)
 - ✍️ [Labelled Links](https://github.com/mnaoumov/obsidian-labelled-links)
@@ -59,6 +60,7 @@ List of Obsidian resources I maintain and contribute to.
 
 - ✍️ [Create Obsidian Plugin](https://github.com/mnaoumov/create-obsidian-plugin)
 - 🤝 [eslint-plugin-obsidianmd](https://github.com/obsidianmd/eslint-plugin)
+- 🤝 [Obsidian API](https://github.com/obsidianmd/obsidian-api)
 - ✍️ [Obsidian Dataview Types](https://github.com/mnaoumov/obsidian-dataview-types)
 - ✍️ [Obsidian Dev Toolkit](https://github.com/mnaoumov/obsidian-dev-toolkit)
 - ✍️⛔ [Obsidian Dev Utils](https://github.com/mnaoumov/obsidian-dev-utils) - retired, replaced by [Obsidian Lib](https://github.com/mnaoumov/obsidian-lib) and [Obsidian Dev Toolkit](https://github.com/mnaoumov/obsidian-dev-toolkit)
@@ -73,6 +75,7 @@ List of Obsidian resources I maintain and contribute to.
 
 - 🤝 [Obsidian Developer Docs](https://github.com/obsidianmd/obsidian-developer-docs)
 - 🤝 [Obsidian Forum - Developers: Plugin & API](https://forum.obsidian.md/c/developers-api/14)
+- 🤝 [Obsidian Help](https://github.com/obsidianmd/obsidian-help)
 - 🔧🇷🇺 [Russian-speaking Telegram Community "Obsidian Chat" (Obsidian Чат)](https://t.me/obsidian_z)
 - ✍️🇷🇺 [Russian-speaking Knowledge Base of "Obsidian Chat" Community (База знаний сообщества "Obsidian Чат")](https://github.com/mnaoumov/obsidian-community-vault)
 
