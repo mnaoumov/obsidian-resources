@@ -14,7 +14,7 @@ List of Obsidian resources I maintain and contribute to.
 
 ## Digest
 
-- ✍️ [Obsidian Digest](https://mnaoumov.dev/digest/) - my Obsidian-related work each month: new plugins and the features worth knowing about
+- ✍️ [Obsidian Digest](https://mnaoumov.dev/obsidian-digest/) - my Obsidian-related work each month: new plugins and the features worth knowing about
 
 ## Plugins
 
