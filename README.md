@@ -58,6 +58,7 @@ List of Obsidian resources I maintain and contribute to.
 - ✍️ [Sibling Notes](https://github.com/mnaoumov/obsidian-sibling-notes)
 - ✍️ [Smart Rename](https://github.com/mnaoumov/obsidian-smart-rename)
 - ✍️ [Tag Notes](https://github.com/mnaoumov/obsidian-tag-notes)
+- ✍️ [Vault Problems](https://github.com/mnaoumov/obsidian-vault-problems)
 
 ## Tools
 
